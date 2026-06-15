@@ -1,59 +1,104 @@
-# Hi 👋 I'm Kiran Masan
+# Hi there 👋, I'm Kiran Masan
 
-🚀 AI Engineer | Software Developer | MCA Final Year Student
+### AI Engineer | Software Developer | MCA Graduate
 
-Passionate about building intelligent systems using AI, Machine Learning, and scalable software architectures.
+I am a passionate software developer and aspiring AI engineer with a strong interest in building intelligent systems that solve real-world problems. My work focuses on Artificial Intelligence, Machine Learning, Full-Stack Development, and scalable cloud-based applications.
 
-💡 Interested in:
-• Artificial Intelligence
-• Machine Learning
-• Backend Systems
-• AI Agents
-• Cloud Computing
+I enjoy transforming ideas into impactful products, from AI-powered assistants and learning platforms to productivity and personal growth systems. I am constantly exploring emerging technologies and applying them to create innovative, user-centric solutions.
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 About Me
 
-💻 Languages
-Java | Python | JavaScript | C++
+🎓 MCA Graduate
 
-🌐 Web Development
-React.js | Node.js | Express.js | HTML | CSS
+🤖 Passionate about Artificial Intelligence and Machine Learning
 
-☁️ Cloud & Tools
-Docker | Git | AWS | Linux | VS Code
+💻 Full-Stack Developer with experience in modern web and cloud technologies
 
-🤖 AI / ML
-TensorFlow | OpenAI API | LangChain | NLP
+🌱 Continuously learning and building projects in AI, Generative AI, Software Engineering, Mobile Application, Desktop Application, and Web application  
+
+🎯 Seeking opportunities as an AI Engineer, Software Developer, Machine Learning Engineer, or Full-Stack Developer, Android Developer, and Web Developer
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* JavaScript
+* C++
+* SQL
+
+### Web Development
+
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* HTML5
+* CSS3
+
+### AI & Machine Learning
+
+* TensorFlow
+* LangChain
+* OpenAI APIs
+* Natural Language Processing (NLP)
+* Generative AI
+* AI Agents
+
+### Databases
+
+* MongoDB
+* MySQL
+* Firebase
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* Git & GitHub
+* Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### StudyBuddy AI
-AI voice assistant for learning using:
-- OpenAI
-- Whisper
-- ElevenLabs
-- Wolfram Alpha
+### HPAI-OS (Human Progress AI Operating System)
 
-### LevelUp IRL
-Gamified self-improvement platform built with
-Next.js + AI APIs
+An AI-powered personal growth platform integrating productivity management, adaptive learning, goal tracking, habit building, intelligent planning, digital twin modeling, and AI-driven insights.
 
-### AI Career Guidance Agent
-Autonomous AI system for career planning and education support.
+**Tech Stack:** Flutter, Firebase, Python, Node.js, AI, Cloud
 
 ---
 
-## 📈 GitHub Stats
+### StudyBuddy AI
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranMasan&show_icons=true)
+An AI-powered voice learning assistant that helps students understand concepts, practice active recall, and improve learning through intelligent conversations.
+
+**Tech Stack:** OpenAI, Whisper, ElevenLabs, Wolfram Alpha
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranMasan\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranMasan\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/kiran-masan-244977243  
-Email: kiranmasan2003@gmail.com
+📧 Email: [kiranmasan2003@gmail.com](mailto:kiranmasan2003@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/kiran-masan-244977243](http://www.linkedin.com/in/kiran-masan-244977243)
+
+🌐 Portfolio: Coming Soon
+
+---
+
+### "Building intelligent systems that empower people through technology."
